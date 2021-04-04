@@ -1,0 +1,54 @@
+.bg-kalender {
+    background: linear-gradient(
+      rgba(64, 133, 185, 0.3), 
+      rgba(63, 104, 134, 0.6)
+    ), url("https://thumbs.dreamstime.com/z/colorful-ramadan-kareem-background-lamps-fanoos-festive-flag-garlands-can-be-used-as-greeting-card-vector-68676535.jpg");
+    min-height: 100vh;
+    background-repeat: no-repeat;
+    position: relative;
+    background-size: cover;
+}
+
+.card,
+.font-festive {
+    font-family: 'Mountains of Christmas', cursive;
+    font-size: 50px;
+}
+
+.uppercase {
+    text-transform: uppercase;
+}
+
+.card {
+    background-color: transparent;
+}
+
+.border-thick {
+    border-width: 3px;
+}
+.card {
+    border-color: white;
+}
+.card:hover {
+    border-color: #d4af37;
+    color: #d4af37;
+    text-decoration: none;
+}
+
+.secret-code {
+    border: 3px solid #8dacc3;
+    background-color: #c1d4e3;
+}
+
+.cheat-text {
+    border: 3px solid #ce2b5c;
+    background-color: #f3aac0;
+}
+
+#kalender-date {
+    color: #1c5886;
+}
+#imag{
+    margin-top: 90px;
+    text-align: center;
+}
